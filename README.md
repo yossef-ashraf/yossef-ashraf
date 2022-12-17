@@ -22,5 +22,19 @@
   
 </div>
 
+<!-- Project Section -->
+<div>
+  <h3>
+    <img width="30" src="https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif" alt="my projects icon">
+    My Projects:
+  </h3>
+</div>
+<p>Let's Discover Together Some Live Projects</p>
+
+- mall-alamer.com
+
+- beneshty.com
+
+
 
 
