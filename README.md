@@ -6,6 +6,8 @@
 <img style="border-radius: 10px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
+  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+  
 <!-- My Skills -->
 <div>
 <h3>
