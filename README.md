@@ -31,7 +31,7 @@
 </div>
 <p>Let's Discover Together Some Live Projects</p>
 
-- mall-alamer.com
+<a scr="http://mall-alamer.com/"> - mall-alamer.com</a>
 
 - beneshty.com
 
