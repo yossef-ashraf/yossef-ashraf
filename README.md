@@ -1,5 +1,5 @@
 <h1 align="center">Hey There I'm yossef <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">"<>A Self Teach Back End Developer & A Software Engineer</>"</h3>
+<h3 align="center">A Self Teach Back End Developer & A Software Engineer</h3>
 
 <!-- Gif -->
 <div align="center" >
