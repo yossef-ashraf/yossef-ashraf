@@ -31,9 +31,9 @@
 </div>
 <p>Let's Discover Together Some Live Projects</p>
 
-- <a href="http://mall-alamer.com/"> mall-alamer.com</a>
+- <a href="http://mall-alamer.com/"> mall-alamer</a>
 
-- beneshty.com
+-  <a href="https://beneshty.com/"> beneshty</a> 
 
 
 
