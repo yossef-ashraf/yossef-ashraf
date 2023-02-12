@@ -33,9 +33,11 @@
 </div>
 <p>Let's Discover Together Some Live Projects</p>
 
-- <a href="http://mall-alamer.com/"> mall-alamer</a>
+- <a href="http://mall-alamer.com/"> Mall-Alamer</a>
 
--  <a href="https://beneshty.com/"> beneshty</a> 
+-  <a href="https://beneshty.com/"> Beneshty</a> 
+
+-  <a href="https://imperialcollegeegypt.edu.eg/"> ICE </a>  
 
 
 
