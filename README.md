@@ -28,7 +28,7 @@
 <div>
   <h3>
     <img width="30" src="https://media.giphy.com/media/zXzMKb3CQoBSVsuW0V/giphy.gif" alt="my projects icon">
-  <p><a href="https://linktr.ee/dev_yossef"> My Projects </a></p>
+  <a href="https://linktr.ee/dev_yossef"> My Projects </a>
   </h3>
 </div>
 
