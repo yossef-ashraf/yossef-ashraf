@@ -31,13 +31,9 @@
     My Projects:
   </h3>
 </div>
-<p>Let's Discover Together Some Live Projects</p>
+<p><a href="https://linktr.ee/dev_yossef"> My Projects </a></p>
 
-- <a href="http://mall-alamer.com/"> Mall-Alamer</a>
 
--  <a href="https://beneshty.com/"> Beneshty</a> 
-
--  <a href="https://imperialcollegeegypt.edu.eg/"> ICE </a>  
 
 
 
