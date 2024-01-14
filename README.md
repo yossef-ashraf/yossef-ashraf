@@ -19,7 +19,8 @@
     <li>JS</li>
         <li>C#</li>
     <li>MySql</li>
-    <li>Sql Server</li>
+    <li>Sql Server</li> 
+    <li>Neo 4J</li>
   </ul>
   
 </div>
