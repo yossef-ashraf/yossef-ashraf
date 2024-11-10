@@ -35,8 +35,8 @@
 
 ###
 
-## <img src="https://raw.githubusercontent.com/yossef-ashraf/yossef-ashraf/output/snake.svg" alt="Snake animation" />
-
+<!--  <img src="https://raw.githubusercontent.com/yossef-ashraf/yossef-ashraf/output/snake.svg" alt="Snake animation" />
+-->
 ###
 
 <div align="left">
