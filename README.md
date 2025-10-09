@@ -67,6 +67,7 @@
 
 ### 👁️ Profile Views
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yossef-ashraf/count.svg?" alt="Profile Counter"/>
-</p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yossef-ashraf/count.svg?"  />
+</div>
