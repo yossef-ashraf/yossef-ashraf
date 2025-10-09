@@ -68,6 +68,6 @@
 ### 👁️ Profile Views
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yossef-ashraf/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yossef-ashraf&label=Visitors&color=green" alt="profile views" />
+</p>
