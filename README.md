@@ -1,73 +1,79 @@
-<h3 align="center">Hey There! I'm Yossef Ashraf 👋</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="788" alt="Yossef Ashraf · Senior Backend PHP/Laravel Engineer. High-concurrency commerce, ERP sync & fault-tolerant systems.">
+</picture>
+</p>
+
+<p align="center">Architecting <strong>high-concurrency commerce engines</strong>, multi-branch ERP sync &amp; payment systems.</p>
+
+<p align="center">Currently <strong>Back-End PHP Developer</strong> at <strong>MitchDesigns</strong> — Egypt &amp; GCC.</p>
 
 <p align="center">
-  <a href="https://resume-templat-cv.vercel.app/" target="_blank" rel="noopener noreferrer">
-    🚀 Open my Resume / CV
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
+  <img src="assets/focus-light.svg" width="788" alt="PHP 8+ & Laravel: Octane, Horizon, Clean Domains. Database & Graph: MySQL, PostgreSQL, Redis, Neo4j. ERP, Payments & DevOps: POS Sync, Docker, AWS, Linux.">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-php-dark.svg">
+  <img src="assets/tool-php-light.svg" width="73" height="27" alt="PHP 8+">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-laravel-dark.svg">
+  <img src="assets/tool-laravel-light.svg" width="79" height="27" alt="Laravel">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-mysql-dark.svg">
+  <img src="assets/tool-mysql-light.svg" width="67" height="27" alt="MySQL">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-postgres-dark.svg">
+  <img src="assets/tool-postgres-light.svg" width="99" height="27" alt="PostgreSQL">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-redis-dark.svg">
+  <img src="assets/tool-redis-light.svg" width="67" height="27" alt="Redis">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-docker-dark.svg">
+  <img src="assets/tool-docker-light.svg" width="73" height="27" alt="Docker">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-linux-dark.svg">
+  <img src="assets/tool-linux-light.svg" width="67" height="27" alt="Linux">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tool-git-dark.svg">
+  <img src="assets/tool-git-light.svg" width="54" height="27" alt="Git">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="788" alt="On GitHub: this year's public contributions, current streak and longest streak. Updated daily.">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <img src="assets/snake-light.svg" width="788" alt="A pale purple snake follows this year's contribution trail, drawn in grey-blue squares.">
+</picture>
 </p>
 
 ---
 
-<h6 align="center">
-  💻 I'm a Software Engineer passionate about Competitive Programming, constantly striving for self-improvement, and always seeking platforms to grow and excel 🚀
-</h6>
-
----
-
-### 🌐 Connect with me
+<p align="center"><sub>Shipping production backend systems for retail &amp; enterprise commerce.<br>Giza, Egypt.</sub></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yossef-ashraf-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yossefa538@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Gmail"/>
-  </a>
-  <a href="https://linktr.ee/dev_yossef" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="40" height="30" alt="Linktree"/>
-  </a>
+  <a href="https://yossef-ashraf.pages.dev/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/yossef-ashraf">LinkedIn</a> ·
+  <a href="https://lh3.googleusercontent.com/d/13neCMNFd_e7ClTtT3RS6zIpkEFtljqOZ">Resume / CV</a> ·
+  <a href="mailto:yossef.ashraf.dev@gmail.com">Email</a>
 </p>
 
----
-
-<p align="center">
-  <img height="200" src="https://camo.githubusercontent.com/32938c5cfc76ec1c984b9a5d968aa4c815470f2b86c080699351d67434963ed0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966" alt="Coding GIF"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yossef-ashraf&show_icons=true&theme=dracula&hide_border=false" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yossef-ashraf&layout=compact&theme=dracula&langs_count=5&hide_border=false" height="150" alt="Languages Graph" />
-</p>
-
----
-
-### 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="40" alt="Neo4j" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</p>
-
----
-
-### 👁️ Profile Views
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yossef-ashraf&label=Visitors&color=green" alt="profile views" />
-</p>
+<p align="center"><sub>Architect, benchmark, ship.</sub></p>
