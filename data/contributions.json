@@ -1,6 +1,6 @@
 {
-  "source": "https://github.com/users/yossef-ashraf/contributions?from=2026-01-01&to=2026-11-25",
-  "asOf": "2026-11-25",
+  "source": "https://github.com/users/yossef-ashraf/contributions?from=2026-01-01&to=2026-11-26",
+  "asOf": "2026-11-26",
   "days": [
     {
       "date": "2026-01-01",
@@ -1645,11 +1645,16 @@
     {
       "date": "2026-11-25",
       "level": 2,
-      "count": 4
+      "count": 6
+    },
+    {
+      "date": "2026-11-26",
+      "level": 0,
+      "count": 0
     }
   ],
   "summary": {
-    "total": 417,
+    "total": 419,
     "currentStreak": 1,
     "longestStreak": 7,
     "activeDays": 83,
